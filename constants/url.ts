@@ -17,7 +17,7 @@ const url = {
 		signup: `//app.${home}/signup`,
 		overview: `//app.${home}`,
 	},
-	twitter: 'https://twitter.com/gokul_i',
+	twitter: 'https://twitter.com/jeremias_i',
 	github: 'https://github.com/jeremiasaguero0323/expense.fyi',
 };
 

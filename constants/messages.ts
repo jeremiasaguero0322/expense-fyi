@@ -52,7 +52,7 @@ export const emails = {
 		},
 	},
 	sent: 'We just sent an email with magic link, check your inbox.',
-	from: 'Gokul from Expense.fyi <hello@expense.fyi>',
+	from: 'Jeremias from Expense.fyi <hello@expense.fyi>',
 	signin: { subject: 'Sign in link for Expense.fyi' },
 	signup: { subject: 'Sign up link for Expense.fyi' },
 };

@@ -20,7 +20,7 @@ import Footnote from './footnote';
 const baseUrl = 'https://expense.fyi';
 const appUrl = 'https://app.expense.fyi';
 const githubUrl = 'https://github.com/jeremiasaguero0323/expense.fyi';
-const twitterUrl = 'https://twitter.com/gokul_i';
+const twitterUrl = 'https://twitter.com/jeremias_i';
 const demoVideoUrl = `https://www.youtube.com/watch?v=faueh3BZXCo`;
 
 export default function WelcomeEmail() {
@@ -38,7 +38,7 @@ export default function WelcomeEmail() {
 							Welcome to Expense.fyi
 						</Heading>
 						<Text className="text-black text-[14px] leading-[24px]">
-							Hi, I{"'"}m Gokul, creator of the Expense.fyi, an open-source app to deliver financial clarity through
+							Hi, I{"'"}m Jeremias, creator of the Expense.fyi, an open-source app to deliver financial clarity through
 							spending analysis. We are excited to have you on board.
 						</Text>
 						<Text className="text-black text-[14px] leading-[24px]">Here is how you can get started:</Text>

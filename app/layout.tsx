@@ -20,7 +20,7 @@ export const metadata = {
 		card: 'summary_large_image',
 		title,
 		description,
-		creator: '@gokul_i',
+		creator: '@jeremias_i',
 		images: ['https://expense.fyi/og.jpg'],
 	},
 	openGraph: {
