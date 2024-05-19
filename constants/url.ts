@@ -18,7 +18,7 @@ const url = {
 		overview: `//app.${home}`,
 	},
 	twitter: 'https://twitter.com/gokul_i',
-	github: 'https://github.com/gokulkrishh/expense.fyi',
+	github: 'https://github.com/jeremiasaguero0323/expense.fyi',
 };
 
 export const getApiUrl = (filterKey: string, apiPath: string, categories: string[] = [], isNotRange = false) => {

@@ -19,7 +19,7 @@ import Footnote from './footnote';
 
 const baseUrl = 'https://expense.fyi';
 const appUrl = 'https://app.expense.fyi';
-const githubUrl = 'https://github.com/gokulkrishh/expense.fyi';
+const githubUrl = 'https://github.com/jeremiasaguero0323/expense.fyi';
 const twitterUrl = 'https://twitter.com/gokul_i';
 const demoVideoUrl = `https://www.youtube.com/watch?v=faueh3BZXCo`;
 
